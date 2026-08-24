@@ -1,4 +1,4 @@
-# 🚀 Modern Landing Page
+#  Modern Landing Page
 
 > A premium, responsive landing page built from scratch using HTML5 and CSS3 as part of the **CodSoft Web Development Internship — Level 1, Task 2**.
 
@@ -91,21 +91,7 @@ CSS transitions and hover effects are used throughout the interface to make inte
 
 ---
 
-## 📂 Project Structure
 
-```text
-CODSOFT_TASK2/
-│
-├── index.html
-├── style.css
-├── images/
-│   ├── hero-image.png
-│   ├── project1.png
-│   ├── project2.png
-│   └── project3.png
-│
-└── README.md
-```
 
 ---
 
@@ -132,20 +118,6 @@ index.html
 in your browser.
 
 No build tools or dependencies are required.
-
----
-
-## 📸 Preview
-
-Add screenshots of the completed website here.
-
-```text
-Desktop Preview
-[ Add Screenshot ]
-
-Mobile Preview
-[ Add Screenshot ]
-```
 
 ---
 
